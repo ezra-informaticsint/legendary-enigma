@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "firstName": "Ezra",
+    "lastName": "Sujeevan",
+    "technologies": [
+      {
+        "name": "JS",
+        "yearsOfExperience": "2"
+      },
+      {
+        "name": "Java",
+        "yearsOfExperience": "5"
+      },
+      {
+        "name": "Python",
+        "yearsOfExperience": "1"
+      }
+    ],
+    "location": {
+      "lat": "6.9387469",
+      "lon": "79.8541134"
+    },
+    "emails": [
+      "ezra.sujeevan@gmail.com",
+      "ezra.s@informaticsint.com"
+    ]
+  },
+  {
+    "id": "",
+    "firstName": "",
+    "lastName": "",
+    "technologies": [
+      {
+        "name": "",
+        "yearsOfExperience": ""
+      }
+    ],
+    "location": {
+      "lat": "",
+      "lon": ""
+    },
+    "emails": []
+  }
+]
